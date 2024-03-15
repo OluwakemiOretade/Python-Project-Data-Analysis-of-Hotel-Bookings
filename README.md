@@ -33,6 +33,8 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ## Analysis and findings
 
+The full report is also included in this repository. See link for a more concise [report](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Data%20Analysis%20(Hotel%20Booking).ipynb)
+
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/reservation.png)
 
 The accompanying bar graph shows the percentage of reservations that are cancelled and those that are not. It is obvious that there are still a significant number of reservations that have not been cancelled. There are still 37% of clints who cancelled their reservation, which has a significant impact on the hotels’ earnings.
