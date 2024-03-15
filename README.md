@@ -2,7 +2,7 @@
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/hotel_pic.jpg)
 
-## DATA ANALYSIS PROJECT STEPS
+## Data Analysis Flow Chart
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Project_flowchat.png)
 1.	Create a problem statement
 2.	Identify the data you want to analyze
