@@ -48,3 +48,6 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
                                             Top 10 Countries with Reservation Cancelled
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Top_10_countries_reservation_cancelled.png)
+
+
+![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Avg_daily_rate_2.png)
