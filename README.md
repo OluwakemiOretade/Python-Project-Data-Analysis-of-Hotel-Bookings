@@ -3,13 +3,14 @@
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/hotel_pic.jpg)
 
 ## DATA ANALYSIS PROJECT STEPS
+![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Project_flowchat.png)
 1.	Create a problem statement
 2.	Identify the data you want to analyze
 3.	Explore and clean the data
 4.	Analyze the data to get useful insights
 5.	Present the data in terms of reports or dashboards using visualization
 
-## BUSINESS PROBLEM
+## Business Problem
 In recent years, City Hotel and Resort Hotel have seen high cancellations rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels’ primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advise to address this problem.
 The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
 
