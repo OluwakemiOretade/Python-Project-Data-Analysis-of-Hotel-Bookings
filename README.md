@@ -31,12 +31,15 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## Analysis and findings
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/reservation.png)
+
 The accompanying bar graph shows the percentage of reservations that are cancelled and those that are not. It is obvious that there are still a significant number of reservations that have not been cancelled. There are still 37% of clints who cancelled their reservation, which has a significant impact on the hotels’ earnings.
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Reservation_diff_hotels.png)
+
 In comparison to resort hotels, city hotels have more bookings. It’s possible that resort hotels are more expensive than those in the cities.
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Avg_daily_rate.png)
+
 The line graph above shows that, on certain days, the average daily rate for a city hotel is less than that of a resort hotel, and on other days, it is even less. It goes without saying that weekends and holidays may see a rise in resort hotel rates.
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Screenshot%202024-03-14%20163850.png)
@@ -53,9 +56,11 @@ Now, let’s see which country has the highest reservation cancelled. The top co
 
 **Top 10 Countries with Reservation Cancelled**
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Top_10_countries_reservation_cancelled.png)
+
 Lets check the area from where guests are visiting the hotels and making reservations. Is it coming from Direct or Groups, Online or Offiline Travel Agents? Around 46% of the clients come from online travel agencies, whereas 27% come from groups. Only 4% of clients book hotels directly by visiting them and making reservations.
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Avg_daily_rate_2.png)
+
 As seen in the graph, reservations are cancelled when the average daily rate is higher than when it is not cancelled. It clearly proves all the above analysis, that the higher price leads to higher cancellation.
 
 ## Suggestions
