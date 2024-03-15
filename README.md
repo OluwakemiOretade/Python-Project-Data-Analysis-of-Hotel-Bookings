@@ -33,7 +33,8 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
 ## Analysis and findings
 
-The full report is also included in this repository. See link for a more concise [report](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Data%20Analysis%20(Hotel%20Booking).ipynb)
+The full report is also included in this repository. See link for a more concise [jupyter notebook](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Data%20Analysis%20(Hotel%20Booking).ipynb) code
+
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/reservation.png)
 
