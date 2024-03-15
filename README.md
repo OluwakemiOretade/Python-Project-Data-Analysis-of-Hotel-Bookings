@@ -44,3 +44,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 
                                                              ADR Per Month
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/ADR_Per_Month.png)
+
+
+                                                            Top 10 Countries with Reservation Cancelled
+![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Top_10_countries_reservation_cancelled.png)
