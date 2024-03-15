@@ -35,3 +35,7 @@ The analysis of hotel booking cancellations as well as other factors that have n
 ## Analysis and findings
 
 ![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/reservation.png)
+
+![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Reservation_diff_hotels.png)
+
+![](https://github.com/OluwakemiOretade/Python-Project-Data-Analysis-of-Hotel-Bookings/blob/main/Dataset%20for%20Project/Avg_daily_rate.png)
