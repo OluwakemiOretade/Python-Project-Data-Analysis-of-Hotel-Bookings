@@ -66,7 +66,7 @@ Lets check the area from where guests are visiting the hotels and making reserva
 
 As seen in the graph, reservations are cancelled when the average daily rate is higher than when it is not cancelled. It clearly proves all the above analysis, that the higher price leads to higher cancellation.
 
-## Suggestions
+## Recommendation
 
 1.	Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the customer.
 2.	As the ratio of the cancellation and not cancellation of the resort is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable discount on the room prices on weekends or on holidays.
